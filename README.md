@@ -1,0 +1,1 @@
+# TonGetminer-win64
